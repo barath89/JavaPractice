@@ -19,7 +19,12 @@ public class P02_Print_SumAndAverageInArray {
 		for(int i=0; i<a.length; i++) {
 			
 			a[i]= s.nextInt();
-			sum=sum+a[i];
+			
+		}
+for(int j=0; j<a.length; j++) {
+			
+			
+			sum=sum+a[j];
 		}
 		System.out.println("Sum of the given Array "+sum);
 		

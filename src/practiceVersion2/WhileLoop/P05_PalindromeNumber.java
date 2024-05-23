@@ -4,7 +4,7 @@ public class P05_PalindromeNumber {
 
 	public static void main(String[] args) {
 		
-		int number = 122, reminder,reverse=0, temp=number;
+		int number = 121, reminder,reverse=0, temp=number;
 		
 		while(number>0) {
 			

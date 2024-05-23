@@ -3,7 +3,7 @@ package geekForGeeks;
 public class Panagram {
 
 	public static void main(String[] args) {
-		String str = "ABcdefghijk23lmnopqrsuvwxyz";
+		String str = "ABcdefghijklmnopqrstuvwxyz";
 		
 		str=str.toUpperCase();
 		
